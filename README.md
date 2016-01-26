@@ -1,2 +1,2 @@
-# loveofphysics.github.io
+# Love of Physics
 Love of Physics
