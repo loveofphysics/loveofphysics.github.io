@@ -17,12 +17,11 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-gems:
-          - jekyll-bootstrap-sass
-bootstrap:
-          assets: true
-
 # Build settings
 markdown: kramdown
 
+sass:
+        sass_dir: _sass
 
+sass:
+            style: compressed
