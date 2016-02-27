@@ -19,3 +19,5 @@ github_username:  loveofphysics
 
 # Build settings
 markdown: kramdown
+sass:
+        sass_dir: assets/css
